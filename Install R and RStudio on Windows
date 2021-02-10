@@ -1,0 +1,6 @@
+Install R and RStudio on Windows
+
+Download R from http://cran.us.r-project.org/ (click on “Download R for Windows” > “base” > “Download R 3.x.x for Windows”)
+Install R. Leave all default settings in the installation options.
+Download RStudio from http://rstudio.org/download/desktop and install it. Leave all default settings in the installation options.
+Open RStudio.
