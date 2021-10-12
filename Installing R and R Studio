@@ -1,0 +1,4 @@
+http://cran.r-project.org/
+https://www.rstudio.com/products/rstudio/download/#download
+install.packages(c("dplyr","ggplot2")) 
+
