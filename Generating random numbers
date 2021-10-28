@@ -1,0 +1,5 @@
+myRand = runif( 1 )
+cat( "My cool Random Number", myRand)
+
+myRand = ( myRand * 10 )
+cat( "Multiplied Number:", myRand)
