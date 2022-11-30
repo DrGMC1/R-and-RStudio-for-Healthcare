@@ -2,7 +2,7 @@
 R is a powerful open source (free) software 
 
 
-Why use R?
+Why use R in healthcare?
 R is platform independent meaning it is available on Windows, Mac, and Linux.
 R has the best help resources both online (just google any issue/question) and using help(...), e.g. help(lm).
 R has the best graphics.
